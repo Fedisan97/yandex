@@ -22,7 +22,10 @@ public class DirectoryLister {
         String currentDir = "/";
         for (int i = 1; i < parts.length; i++) {
             currentDir += parts[i] + "/";
-            directories.add(currentDir);
+            directories.add(currentDir);   
+
+
+
         }
     }
 }
