@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 import java.util.Scanner;
-   
+    
 public class Train {
     
     public static void MakeTrain() {
